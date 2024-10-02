@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DockerContrllApplication<docker-contrll>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.dockercontroll.DockerContrllApplication",
+            "projectName": "docker-contrll",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
